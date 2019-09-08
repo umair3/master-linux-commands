@@ -1,0 +1,10 @@
+. filename
+Dot
+Executes all commands in the file.
+
+Example:
+1. Create a file test using command "touch test"
+2. Write pwd command in the file.
+3. Run the command ". test"
+4. It will print working directory.
+
